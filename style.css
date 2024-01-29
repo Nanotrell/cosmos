@@ -24,6 +24,7 @@
 @media (width<500px) {
 	.sign {
 		display: block;
+		opacity: 1 !important;
 	}
 	body * {
 		display: none;
